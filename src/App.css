@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'MinePlayer Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MinePlayer Regular'), url('mine_player.woff') format('woff');
+}
+
+h1{
+    font-family: 'MinePlayer Regular';
+    color: rgba(255, 255, 255, 0.70);
+    font-weight: 150;
+}
+
+.pv4{
+    color: rgba(255, 255, 255, 0.377);
+    font-style: italic;
+} 
